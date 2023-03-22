@@ -1,0 +1,436 @@
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135812c5b35', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413581422345', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641358170f9b7', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641358207115c', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641358275125e', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135828be92d', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413582ada332', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413582c592f5', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413583ab15dd', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413583bd9f8c', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413583cecd4f', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413583e222ae', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('6413583f55128', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641358405d01b', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f105236', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f24af9f', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f36ca95', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f4a9224', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f614846', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359f743256', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359fa76c74', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359fba582d', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359fccd38f', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359fe285db', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('641359ff474a0', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135a008c7a4', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac0a2ce3', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac1c4c93', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac2cd3bd', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac40d1fd', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac54818f', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac696cfd', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ac9afd4f', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135acac8c29', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135acc4d6aa', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ace1a408', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135acf96400', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135ad0d5419', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b2fdc5c7', 'Javna rasvjeta u funkciji marketing aktivnosti', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+  
+
+Urbane sredine sve više prepoznaju mogućnosti korištenja javne rasvjete za promicanje svog vizualnog identiteta. Isto tako implementiranim marketinškim rješenjima se osigurava financijska samoodrživost javne rasvjete. Zadatak rada je ukazati na mogućnost financijske održivosti javne rasvjete iznajmljivanjem reklamnog prostora putem led displaya. Opisati tehničku izvedbu tih rješenja, izraditi analizu troškova izvedbe te opisati način mogućih financijskih ušteda njihovim korištenjem. 
+
+  
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori: Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/javna-rasvjeta-u-funkciji-marketing-aktivnosti/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b3119f5a', 'Ekonomska i energetska učinkovitost pametnog upravljanja javnom rasvjetom', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Zadatak rada je analizirati tehnički i ekonomski aspekt primjene novih rješenja javne rasvjete. Napraviti usporedbu s tradicionalnim izvedbama u smislu energetske učinkovitosti te dugoročno održivim financijskim uštedama. Na primjeru iz prakse izraditi troškovnik ugradnje jednog rješenja, te opisati tehničku izvedbu. 
+
+&nbsp; 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/ekonomska-i-energetska-ucinkovitost-pametnog-upravljanja-javnom-rasvjetom/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b32b880e', 'Rasvijetljenost pješačkih prijelaza i svjetlosna signalizacija s tehničkog i ekonomskog aspekta', '(Tema je namijenjena studentima i studenticama diplomskog, preddiplomskog studija i stručnog studija) 
+
+Sve intenzivniji promet i složenija prometna infrastruktura utječu na potrebu za novim rješenjima vezanim za sigurnost u prometu. Zadatak ovog rada je istražiti, analizirati i opisati tehnička rješenja rasvijetljenosti i signalizacije pješačkih prijelaza. Ukazati na moguće financijske uštede koje se postižu implementacijom „pametnih“ rješenja. Za jedno takvo rješenje potrebno je opisati tehničku izvedbu i izraditi troškovnik ugradnje. 
+
+Mentorica: Prof.dr.sc. Dominika Crnjac Milić; Sumentori:Ivica Čabraja, mag.ing.el. (ET projekt 
+
+d.o.o. za projektiranje i nadzor) i  Zorislav Kraus dipl.ing., viši predavač (FERIT Osijek)', 'https://stup.ferit.hr/2021/01/29/rasvijetljenost-pjesackih-prijelaza-i-svjetlosna-signalizacija-s-tehnickog-i-ekonomskog-aspekta/', '05128411490')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b3425fd1', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije 
+
+Mentor: Prof. dr. sc. Denis Pelin 
+
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.) 
+
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u programskom okruženju Typhoon HIL. Parametarske analize energetskog dijela pretavrača. Razvoj upravljačkog dijela pretvarača pomoću mikrokontrolera i vanjske upravljačke pločice.', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '70036017051')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b354c0fe', 'Tema za diplomski rad', 'Rad na temu &#8220; Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka &#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+
+U teorijskom dijelu diplomskog rada potrebno je analizirati i opisati izazove i mogućnosti sustava web trgovine, te sustava stvaranja preporuka s naglaskom na primjenu u web trgovini. U radu treba uvažiti potrebu stvaranja korisničkog računa s postojećih platformi na kojima korisnik već ima račun, upravljanje narudžbama, popustima, programom vjernosti i nagrađivanja korisnika, obavješćivanja korisnika, specifičnosti prodaje sportske opreme i sportskih aktivnosti, potrebe za personaliziranim pristupom kupcu i sportu kojim se bavi, primjenu povećane razine sigurnosti korisnika, te načela lokalizacije. Na temelju navedenih zahtjeva i mogućnosti, treba predložiti model, arhitekturu i dizajn web trgovine za prodaju sportske opreme, te postupke višekriterijskog stvaranja personaliziranih preporuka zasnovanih na hibridnim pristupima. Navedeni web sustav treba programski ostvariti korištenjem prikladnih programskih tehnologija, jezika i razvojne okoline za agilni razvoj, te ga ispitati i analizirati za odgovarajuće sportove, profile korisnika, skupine proizvoda, scenarije korištenja i s gledišta korisničkog iskustva.', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '79343687407')";
+INSERT INTO diplomski_radovi (id, naziv_rada, tekst_rada, link_rada, oib_tvrtke)
+VALUES ('64135b369cc55', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'U nastavku možete naći temu i popis tehnologija za izradu diplomskog rada uz naše mentorstvo. Nakon odabira teme, slobodno nas možete kontaktirati na hr@factory.hrkako biste dobili više informacija o vašoj suradnji s mentorom.  
+
+Sljedeća tema namijenjena je studentima diplomskog studija. Odabirom navedene teme, rad biste pisali pod mentorstvom našeg backend developera &#8211; Filipa Dumančića.  
+
+Zadatak rada je izraditi REST API za aplikaciju za planiranje izleta. Pomoću API-ja mora biti moguće izraditi mobilnu ili web aplikaciju. 
+
+Predvidjeti tri korisnčika profila s obzirom na funkcionalnosti i pristup podacima: organizator, vodič, korisnik. Korisnik ima mogućnost pregleda i rezervacije izleta. Vodič je osoba zadužena za izlet i vidi samo vlastite izlete i vrijeme kada se održavaju te broj prijavljenih. Organizator vidi sve izlete, kreira nove i uređuje postojeće izlete, definira rutu i plan puta (vrijeme i atrakcije), dodjeljuje vodiča te se brine o rezervacijama. Potrebno je osmisliti sučelje mobilne ili web aplikacije. Još je potrebno napraviti bazu podataka za pohranu informacija. Za funcionalnosti mobilne ili web aplikacije potrebno je napraviti API. 
+
+Tehnologija za izradu je skriptni jezik PHP i MVC obrazac Laravel. 
+
+U radu je potrebno ukazati na korisnost ovakog proizvoda s organizacijskog  aspekta, te opisati korištene tehnologije pri izradi rada. 
+
+Kao dodatak radu je potrebno dokumentirati API. 
+
+(mentorica: prof.dr.sc. Dominika Crnjac Milić (FERIT); sumentori: izv.prof.dr.sc. Krešimir Nenadić (FERIT) i Filip Dumančić (Plava tvornica d.o.o.)) 
+
+&nbsp;', 'https://stup.ferit.hr/2020/02/06/tema-za-diplomski-rad-api-za-aplikaciju-za-planiranje-izleta/', '47726994562')";
